@@ -1,2 +1,6 @@
 # hello-world
-Just another repository, but for Embedded Systems this time
+
+Sami Khan
+Xilinx Zynq ARM Cortex-9
+Chicken
+
